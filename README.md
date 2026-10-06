@@ -6,7 +6,7 @@ Projeyi Minimal API yapısını, JWT authentication, Entity Framework Core ve Po
 
 ## Proje Linki
 
-https://forumapp-api.omerdumlupinar.com/scalar/v1
+http://forumapp-api.omerdumlupinar.com/scalar/v1
 
 ## Kullanılan Teknolojiler
 
