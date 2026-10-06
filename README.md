@@ -2,7 +2,7 @@
 
 .NET 10 ile geliştirdiğim basit bir forum API projesi.
 
-Projeyi Minimal API yapısını, JWT authentication, Entity Framework Core ve PostgreSQL kullanımını geliştirmek amacıyla hazırladım.
+Projeyi Minimal API yapısını için Carter, JWT authentication, Entity Framework Core ve PostgreSQL ile geliştirildi.
 
 ## Proje Linki
 
